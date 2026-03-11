@@ -1,0 +1,602 @@
+[
+  {
+    "description":"Last week was the hardest week that our office has ever experienced. When I look down the list of pe...",
+    "actual_subject":"Layoffs\n",
+    "generated_subject":"Last Week Was Hardest Week",
+    "len_words":5
+  },
+  {
+    "description":"We are in the process of confirming that all traders are set up correctly and ready to trade when th...",
+    "actual_subject":"**IMPORTANT** Stack Manager Users\n",
+    "generated_subject":"Process Confirming All Traders Set",
+    "len_words":5
+  },
+  {
+    "description":"Dear Medicine Bow Shipper: This morning we received FERC approval for the fourth tie-in segment (to ...",
+    "actual_subject":"Medicine Bow Tie-In Capacity\n",
+    "generated_subject":"Dear Medicine Bow Shipper Morning",
+    "len_words":5
+  },
+  {
+    "description":"Suzanne: Could you please coordinate with Sara's and Richard's assistant to set up a 30 minute meeti...",
+    "actual_subject":"Meeting\n",
+    "generated_subject":"Take Advantage of This Opportunity",
+    "len_words":5
+  },
+  {
+    "description":"Sounds like \"hiccup.\" Anyway, I got an email from George Briden asking what is up with our response ...",
+    "actual_subject":"Wikieup\n",
+    "generated_subject":"Sounds Like Hiccup Anyway i",
+    "len_words":5
+  },
+  {
+    "description":"Holden your position @ WSCC-S is your Financial position w\/ the Index Option. The strike is Palo Ver...",
+    "actual_subject":"WSCC-S Index Option\n",
+    "generated_subject":"Holden Position Wscc s Financial",
+    "len_words":5
+  },
+  {
+    "description":"Congratulations on your added role of Chairman and CEO of ENA. I didn't realize that when I said hel...",
+    "actual_subject":"ENA Role\n",
+    "generated_subject":"Use This Link if it",
+    "len_words":5
+  },
+  {
+    "description":"Mark - I just wanted to update you regarding this Thursday's program with the ADL and Judge Bobby De...",
+    "actual_subject":"ADL Program Thursday Evening\n",
+    "generated_subject":"If There is Any Questions",
+    "len_words":5
+  },
+  {
+    "description":"Wayne, I have modified the above contract as we discussed. The \"Customer's Agent\" language is contai...",
+    "actual_subject":"JER \/ BRE Austin Tech, L.P.\n",
+    "generated_subject":"Your Request For an Agent",
+    "len_words":5
+  },
+  {
+    "description":"As you know, the SEC is conducting an informal inquiry into related party transactions Enron did wit...",
+    "actual_subject":"SEC Inquiry\n",
+    "generated_subject":"As Know Sec Conducting Informal",
+    "len_words":5
+  },
+  {
+    "description":"Further to our discussions yesterday, attached is a draft letter agreement = under which Transwester...",
+    "actual_subject":"Mavrix:  ATTORNEY CLIENT PRIVILEGE\n",
+    "generated_subject":"Further Discussions Yesterday Attached Draft",
+    "len_words":5
+  },
+  {
+    "description":"In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy a...",
+    "actual_subject":"Edgecombe Energy and Capacity Contract\n",
+    "generated_subject":"Effort Pull Pieces Together Meeting",
+    "len_words":5
+  },
+  {
+    "description":"Chip, I wanted to follow up regarding the issues that were raised by the cash committee relative to ...",
+    "actual_subject":"Bridgeline - Bankruptcy issues\n",
+    "generated_subject":"Chip i Wanted Follow up",
+    "len_words":5
+  },
+  {
+    "description":"For the time being, Ken wants to leave the Management Committee extended meeting on the schedule for...",
+    "actual_subject":"Management Committee Extended Meeting\n",
+    "generated_subject":"Time Being Ken Wants Leave",
+    "len_words":5
+  },
+  {
+    "description":"Paul, Please replace both references to \"the Southern District of Texas\" with \"the District of Colum...",
+    "actual_subject":"Arbitration Language\n",
+    "generated_subject":"The Supreme Court Ruled That",
+    "len_words":5
+  },
+  {
+    "description":"Here is the e-mail we received from ISDA. Since we only have $500 left and they are suggesting $1000...",
+    "actual_subject":"Lugar Fundraiser\n",
+    "generated_subject":"Here e Mail Received Isda",
+    "len_words":5
+  },
+  {
+    "description":"Elizabeth, Hope you had a wonderful Thanksgiving-weekend. Just wanted to follow-up on my messages on...",
+    "actual_subject":"Follow-up on VEPCO\n",
+    "generated_subject":"Elizabeth Hope Had Wonderful Thanksgiving",
+    "len_words":5
+  },
+  {
+    "description":"I shall interview this candidate next week (a very preliminary interview) to evaluate his potential ...",
+    "actual_subject":"An interesting resume\n",
+    "generated_subject":"If The Question is Why",
+    "len_words":5
+  },
+  {
+    "description":"****************************************************************************************************...",
+    "actual_subject":"Presentation Announcement\n",
+    "generated_subject":"Invited Attend Following Presentation Psim",
+    "len_words":5
+  },
+  {
+    "description":"Dear Power Outage Database Customer, Attached you will find an excel document. The outage contained ...",
+    "actual_subject":"SERC (Canadys) WSCC (Contra Costa)\n",
+    "generated_subject":"Dear Power Outage Database Customer",
+    "len_words":5
+  },
+  {
+    "description":"On Friday (October 19), DWR released a revised revenue requirement. The result was to lower the Cust...",
+    "actual_subject":"DWR Revenue Requirement\n",
+    "generated_subject":"Friday October 19 Dwr Released",
+    "len_words":5
+  },
+  {
+    "description":"Per Jan's recent Commission meeting summary I just noticed the Commission had added a discussion ite...",
+    "actual_subject":"FERC Discussion on OFOs\n",
+    "generated_subject":"Per Jan s Recent Commission",
+    "len_words":5
+  },
+  {
+    "description":"Bill, Please review this draft CA for Northern Border Pipeline. They are reviewing possibly taking a...",
+    "actual_subject":"Confidentiality Agrmt w\/ NBPL\n",
+    "generated_subject":"First Person Pronoun is Just",
+    "len_words":5
+  },
+  {
+    "description":"Please review with regards to changes in MOCK test plans tomorrow for processing ETX deals: Location...",
+    "actual_subject":"PLEASE REVIEW - location\/ time in MOCK test tomorrow\n",
+    "generated_subject":"Times Faster Reply Rate Than",
+    "len_words":5
+  },
+  {
+    "description":"Casey, I ran a test deal through on EnronOnline. Please verify that Deal ID 665070.1 in ENPOWER TEST...",
+    "actual_subject":"New Associated Location\n",
+    "generated_subject":"Casey i Ran Test Deal",
+    "len_words":5
+  },
+  {
+    "description":"The following reports have been waiting for your approval for more than 4 days. Please review. Owner...",
+    "actual_subject":"Expense Reports Awaiting Your Approval\n",
+    "generated_subject":"Following Reports Have Been Waiting",
+    "len_words":5
+  },
+  {
+    "description":"To confirm: Mark Thomas Mike Presley both previously on the list for Netco's Market Risk\/Research Gr...",
+    "actual_subject":"Leavers\n",
+    "generated_subject":"Post by dr Michael Koffie",
+    "len_words":5
+  },
+  {
+    "description":"Jackie, Legal is reviewing the Terms of Business document for Credit Lyonnais and Monument Derivativ...",
+    "actual_subject":"Trading Agreements with Enron\n",
+    "generated_subject":"Jackie Legal Reviewing Terms Business",
+    "len_words":5
+  },
+  {
+    "description":"Chris: Here is where I will be just in case. I will alos be checking my voice mail. My assistant, Su...",
+    "actual_subject":"Hotel Info\n",
+    "generated_subject":"For Reading it Was Awesome",
+    "len_words":5
+  },
+  {
+    "description":"For your reference, please find attached a short presentation that we have prepared for Xcel regardi...",
+    "actual_subject":"Blend & Extend\n",
+    "generated_subject":"Do You Think There Something",
+    "len_words":5
+  },
+  {
+    "description":"I discussed this w\/Frank, and wanted to make the other two of you aware, since this is a Bermuda cor...",
+    "actual_subject":"Global Crossing Ltd.\n",
+    "generated_subject":"If Your Questions Don Get",
+    "len_words":5
+  },
+  {
+    "description":"The following items were discussed in this week's ETS and Corporate Change Control Items... Sept. 24...",
+    "actual_subject":"ETS and Corporate Change Control Items\n",
+    "generated_subject":"Following Items Were Discussed Week",
+    "len_words":5
+  },
+  {
+    "description":"Rhett: I am negotiating with First Union National Bank (Party B below). Is the following rep OK? \"Pa...",
+    "actual_subject":"ISDA bank representation\n",
+    "generated_subject":"Rhett i am Negotiating First",
+    "len_words":5
+  },
+  {
+    "description":"Hey Jeff: What's going on at Enron and, more importantly, what does it mean for you? How are you in ...",
+    "actual_subject":"(sem assunto)\n",
+    "generated_subject":"Hey Jeff What s Going",
+    "len_words":5
+  },
+  {
+    "description":"Hello! An ENA employee wrote a book that was published in Russia. There have been three editions, an...",
+    "actual_subject":"Code of Ethics\/Copyright Question\n",
+    "generated_subject":"Hello Ena Employee Wrote Book",
+    "len_words":5
+  },
+  {
+    "description":"Stephanie and Frank: Both Susan Bailey and I have spoken with Utilicorp's attorney and here is my un...",
+    "actual_subject":"Utilicorp\n",
+    "generated_subject":"In Addition There Were Several",
+    "len_words":5
+  },
+  {
+    "description":"We are continuing work to ensure our new online trading system, UBSWenergy, is ready for launch on t...",
+    "actual_subject":"Online Trading Simulation\n",
+    "generated_subject":"Continuing Work Ensure New Online",
+    "len_words":5
+  },
+  {
+    "description":"Dear Futures Trader, What follows is the first issue of FutureSource's newest service, \"FAST BREAK.\"...",
+    "actual_subject":"FutureSource's new \"FAST BREAK\"\n",
+    "generated_subject":"Forecast Market Value in Outlook",
+    "len_words":5
+  },
+  {
+    "description":"February 4, 2002 NESA Members: Attached is our Northeast Spring Membership Mixer to be held at MacMe...",
+    "actual_subject":"Northeast Spring Membership Mixer\n",
+    "generated_subject":"February 4 2002 Nesa Members",
+    "len_words":5
+  },
+  {
+    "description":"As the November elections approach, I encourage everyone to exercise your right to be heard and to m...",
+    "actual_subject":"Voter Registration Reminder\n",
+    "generated_subject":"As November Elections Approach i",
+    "len_words":5
+  },
+  {
+    "description":"COLUMBIA GAS TRANSMISSION CORPORATION NOTICE TO ALL INTERESTED PARTIES OCTOBER 24, 2001 Notice ID: 3...",
+    "actual_subject":"LINE SM-123\n",
+    "generated_subject":"Columbia Gas Transmission Corporation Notice",
+    "len_words":5
+  },
+  {
+    "description":"Enron announced today that its common stock will now be traded as an Over-the-Counter (OTC) equity s...",
+    "actual_subject":"New Stock Symbol\n",
+    "generated_subject":"Enron Announced Today Its Common",
+    "len_words":5
+  },
+  {
+    "description":"Gregg, Attached are my suggested changes to the above-referenced confidentiality agreement. One of t...",
+    "actual_subject":"PESC Confidentiality Agreement\n",
+    "generated_subject":"Do You Have Any Questions",
+    "len_words":5
+  },
+  {
+    "description":"This is a notice to inform you that the server where your Outlook mailbox resides is scheduled for a...",
+    "actual_subject":"NOTIFICATION:  Outlook Outage - Friday, December 28, 2001\n",
+    "generated_subject":"Mailbox Has Taken Over as",
+    "len_words":5
+  },
+  {
+    "description":"Attached is a letter from SoCalGas concerning the effect of Tuesday's Commission decision on its cur...",
+    "actual_subject":"SoCalGas letter re BCAP GIR(v1).DOC\n",
+    "generated_subject":"Attached Letter Socalgas Concerning Effect",
+    "len_words":5
+  },
+  {
+    "description":"Julie, Following up on my voicemail, attached is a revised LOI that I would like you to review befor...",
+    "actual_subject":"Skipping Stone LOI--Breakage Fee\n",
+    "generated_subject":"Julie Following up Voicemail Attached",
+    "len_words":5
+  },
+  {
+    "description":"As I mentioned in my voice mail, please check up on the signing bonus we agreed to pay Tony Pryor. H...",
+    "actual_subject":"Tony Pryor\n",
+    "generated_subject":"As i Mentioned Voice Mail",
+    "len_words":5
+  },
+  {
+    "description":"MARK YOUR LUNCH CALENDARS NOW ! You are invited to attend the EWS Brown Bag Lunch Series Featuring: ...",
+    "actual_subject":"EWS Brown Bag\n",
+    "generated_subject":"Mark Lunch Calendars Now Invited",
+    "len_words":5
+  },
+  {
+    "description":"Attached is the current version of TW's Firm Capacity Procedures. (Posting requirements are defined ...",
+    "actual_subject":"TW's Firm Capacity Procedures\n",
+    "generated_subject":"Attached Current Version tw s",
+    "len_words":5
+  },
+  {
+    "description":"Ed: Here is a comparison of our form to Clement's. We need to use our form as it ties more closely i...",
+    "actual_subject":"Enron Guaranty Form\n",
+    "generated_subject":"The Following Two Examples Were",
+    "len_words":5
+  },
+  {
+    "description":"Stephanie: Harvard's outside counsel is in control of drafting this document. If this is finalized d...",
+    "actual_subject":"President and Fellows of Harvard University\n",
+    "generated_subject":"Stephanie Harvard s Outside Counsel",
+    "len_words":5
+  },
+  {
+    "description":"I want to remind each of you to attend the Enron Employee Meeting tomorrow at 10 a.m. in the Hyatt R...",
+    "actual_subject":"Enron Employee Meeting, October 23, 2001 at 10:00 a.m.\n",
+    "generated_subject":"I Want Remind Each Attend",
+    "len_words":5
+  },
+  {
+    "description":"Steve, apparently I'm developing an overactive imagination when it comes to FERC decisions. In Panha...",
+    "actual_subject":"PNM reply comments\n",
+    "generated_subject":"Steve Apparently i m Developing",
+    "len_words":5
+  },
+  {
+    "description":"This is the speadsheet we have been working off of for the 2010 model that Kevin Howard is running. ...",
+    "actual_subject":"TW 2010 Projected Capacity & Revenue\n",
+    "generated_subject":"Speadsheet Have Been Working Off",
+    "len_words":5
+  },
+  {
+    "description":"The Hearings The hearings have transitioned to the more traditional, courtroom-like environment, wit...",
+    "actual_subject":"Update--Day 3 of California PUC Hearings\n",
+    "generated_subject":"Hearings Hearings Have Transitioned More",
+    "len_words":5
+  },
+  {
+    "description":"All, You are invited to attend an ENA Trading Track Dinner, Tuesday, October 16th ( location details...",
+    "actual_subject":"Trading Track Dinner - 16th October\n",
+    "generated_subject":"All Invited Attend Ena Trading",
+    "len_words":5
+  },
+  {
+    "description":"The merger agreement with Dynegy provides that subs of Dynegy merger with Enron with Enron being the...",
+    "actual_subject":"Project Notre Dame - Change in Control\n",
+    "generated_subject":"Merger Agreement Dynegy Provides Subs",
+    "len_words":5
+  },
+  {
+    "description":"Thursday, May 10 at 10 a.m. Houston time, join Billy Lemmons on eSpeak. Billy, vice president of the...",
+    "actual_subject":"eThink About It: 5\/7\/01\n",
+    "generated_subject":"Thursday May 10 10 m",
+    "len_words":5
+  },
+  {
+    "description":"Trade press, recruiting firms and others recently have made numerous calls to Enron employees seekin...",
+    "actual_subject":"Solicitation Calls\n",
+    "generated_subject":"Trade Press Recruiting Firms Others",
+    "len_words":5
+  },
+  {
+    "description":"Chad, attached is the draft of the Measurement and Control Facilities Operating Agreement for Calpin...",
+    "actual_subject":"Operating Agreement\n",
+    "generated_subject":"Chad Attached Draft Measurement Control",
+    "len_words":5
+  },
+  {
+    "description":"Gerald, Here are the numbers for your conference call. Dial in: (888)476-3752 Host: 302 521 (Gerald ...",
+    "actual_subject":"Conf. Call numbers have been set up\n",
+    "generated_subject":"Gerald Here Numbers Conference Call",
+    "len_words":5
+  },
+  {
+    "description":"Brant: Please call me or schedule time to discuss Bridgeline (\"CP\"). In particular, you should note ...",
+    "actual_subject":"Schedule to Master Agreement - Bridgeline\/ENA\n",
+    "generated_subject":"To Avoid Any Confusion About",
+    "len_words":5
+  },
+  {
+    "description":"InJesus POWERED Subscribe UnSubscribe Archive Group: Encouragement Ministry Title: Encouragement Ema...",
+    "actual_subject":"Encouragement Email\n",
+    "generated_subject":"Injesus Powered Subscribe Unsubscribe Archive",
+    "len_words":5
+  },
+  {
+    "description":"We have conference room 6716 from 3:00 to 4:00 each day for OPS. I have not inspected the room to se...",
+    "actual_subject":"OPS meeting\n",
+    "generated_subject":"Have Conference Room 6716 3",
+    "len_words":5
+  },
+  {
+    "description":"Greetings Diane: Could you check the work phone for Joseph Brophy. I've got 408.390.5291 on my list ...",
+    "actual_subject":"Wrong Number\n",
+    "generated_subject":"Greetings Diane Could Check Work",
+    "len_words":5
+  },
+  {
+    "description":"My friends and I would like to buy a table for the banquet April 9th and request that Bobby Reynolds...",
+    "actual_subject":"Re Kids Unlimited\n",
+    "generated_subject":"Dennis Blog Posts on Your",
+    "len_words":5
+  },
+  {
+    "description":"All A reminder that you are scheduled to interview for the Trading Track Thursday, November 1st, fro...",
+    "actual_subject":"Reminder:Interivews Thursday Trading Track\n",
+    "generated_subject":"All Reminder Scheduled Interview Trading",
+    "len_words":5
+  },
+  {
+    "description":"Please disregard previous e-mails regarding the EES Mailing List. Instead of spending time typing ou...",
+    "actual_subject":"EES Mailing List - PLEASE READ\n",
+    "generated_subject":"Please Disregard Previous e Mails",
+    "len_words":5
+  },
+  {
+    "description":"For those of you keeping track, Carrizo makes 475 master swap agreements. Conferring with Team Swap,...",
+    "actual_subject":"Hot Off the Presses\n",
+    "generated_subject":"How do Your Students Feel",
+    "len_words":5
+  },
+  {
+    "description":"All: Sheila and I have been trying to coordinate the account(s) to receive the shares of the above e...",
+    "actual_subject":"Enron Investments plc (\"EIplc\") - new brokerage account\n",
+    "generated_subject":"All Sheila i Have Been",
+    "len_words":5
+  },
+  {
+    "description":"Brent: sorry for my poor \"attaching abilities.\" Hopefully we will have a lot to discuss tomorrow. Ly...",
+    "actual_subject":"Argentina recap phone call tomorrow\n",
+    "generated_subject":"Brent Sorry Poor Attaching Abilities",
+    "len_words":5
+  },
+  {
+    "description":"This warning is sent automatically to inform you that your mailbox is approaching the maximum size l...",
+    "actual_subject":"WARNING:  Your mailbox is approaching the size limit\n",
+    "generated_subject":"Message Size Limit in Case",
+    "len_words":5
+  },
+  {
+    "description":"As you know, this is an unprecedented time in Enron's history. We must adapt our employee programs t...",
+    "actual_subject":"Program Changes\n",
+    "generated_subject":"As Know Unprecedented Time Enron",
+    "len_words":5
+  },
+  {
+    "description":"Great job, as usual, on the United Way kick off today. I saw Amy Leeand Eylesse Kalmans as I left th...",
+    "actual_subject":"United Way Kick Off\n",
+    "generated_subject":"Great Job as Usual United",
+    "len_words":5
+  },
+  {
+    "description":"The total mark to market value for US Gas EOL deals as of 10\/31\/2000 was: $81,935,102 Physical deals...",
+    "actual_subject":"EOL US Gas MTM\n",
+    "generated_subject":"What do All These Terms",
+    "len_words":5
+  },
+  {
+    "description":"I want to provide you with an update on current events and their potential effects on members of the...",
+    "actual_subject":"Analyst & Associate Program Update\n",
+    "generated_subject":"I Want Provide Update Current",
+    "len_words":5
+  },
+  {
+    "description":"Mary: We deleted this counterparty from the legal\/credit list yesterday. Since commercial is not pus...",
+    "actual_subject":"OK Tedi Mining Limited\n",
+    "generated_subject":"Contact if You Need Help",
+    "len_words":5
+  },
+  {
+    "description":"Lisa, GE is asking for fully executed copies of thedocuments they signed in connection with the Turb...",
+    "actual_subject":"E-Next Generation documents for GE\n",
+    "generated_subject":"Lisa ge Asking Fully Executed",
+    "len_words":5
+  },
+  {
+    "description":"I don't know the YMCA's policy on rain outs so I will assume that we still have a game tonight. Our ...",
+    "actual_subject":"Game Tonight\n",
+    "generated_subject":"So Much Work Let See",
+    "len_words":5
+  },
+  {
+    "description":"Hey there! It was really good to talk to you last night. I had a dream about you last night... I hop...",
+    "actual_subject":"christmas\n",
+    "generated_subject":"What Next The Idea Sounds",
+    "len_words":5
+  },
+  {
+    "description":"eSource Presents Lexis-Nexis Training Basic Lexis-Nexis Basic is geared to the novice or prospective...",
+    "actual_subject":"Lexis-Nexis Training: Houston & Worldwide \/ Dow Jones Training\n",
+    "generated_subject":"Esource Presents Lexis Nexis Training",
+    "len_words":5
+  },
+  {
+    "description":"We have received the executed ISDA Master Agreement (Multicurrency-Cross Border) executed 04\/08\/99, ...",
+    "actual_subject":"Husky Oil Limited\/ECT Canada\n",
+    "generated_subject":"Have Received Executed Isda Master",
+    "len_words":5
+  },
+  {
+    "description":"Just a note that all Michcon deals need to be entered as MICH\/Michcon Other\/1130. This is the generi...",
+    "actual_subject":"Michcon Deals\n",
+    "generated_subject":"Just Note All Michcon Deals",
+    "len_words":5
+  },
+  {
+    "description":"Per my fax (37 pages) of 8\/29\/99, attached are copies of (1) the existing and proposed Annex A (gene...",
+    "actual_subject":"Omnibus format - revisions\n",
+    "generated_subject":"Per Fax 37 Pages 8",
+    "len_words":5
+  },
+  {
+    "description":"During our United Way 2000 Campaign that was held last fall, you were kind enough to pledge a contri...",
+    "actual_subject":"United Way 2000 Contribution Reminder\n",
+    "generated_subject":"You Did it Too You",
+    "len_words":5
+  },
+  {
+    "description":"Dear Power Outage Database Customer, Attached you will find an excel document. The outage contained ...",
+    "actual_subject":"SERC (Oconee 03)\n",
+    "generated_subject":"Dear Power Outage Database Customer",
+    "len_words":5
+  },
+  {
+    "description":"This warning is sent automatically to inform you that your mailbox is approaching the maximum size l...",
+    "actual_subject":"WARNING:  Your mailbox is approaching the size limit\n",
+    "generated_subject":"Message Type Print Email Address",
+    "len_words":5
+  },
+  {
+    "description":"The following reports have been waiting for your approval for more than 4 days. Please review. Owner...",
+    "actual_subject":"Expense Reports Awaiting Your Approval\n",
+    "generated_subject":"Few Questions About The New",
+    "len_words":5
+  },
+  {
+    "description":"It sure sounds like you have your hands full with the restructuring! I have been trying to get a bet...",
+    "actual_subject":"Deal Flow\n",
+    "generated_subject":"It Sure Sounds Like Have",
+    "len_words":5
+  },
+  {
+    "description":"Attached are the purchases and sales with New Power for the month of November. The invoices are on t...",
+    "actual_subject":"Nov Invoice\n",
+    "generated_subject":"How Much do You Want",
+    "len_words":5
+  },
+  {
+    "description":"Whales, Just a short note to congratulate you on your success at Enron. I had an email written short...",
+    "actual_subject":"Belated congrates to a classmate\n",
+    "generated_subject":"What About Being Fired From",
+    "len_words":5
+  },
+  {
+    "description":"Here are the stray facts I mentioned: Sulfur River system: 1200 miles of gathering in East Texas and...",
+    "actual_subject":"Sulfur River\n",
+    "generated_subject":"Here Stray Facts i Mentioned",
+    "len_words":5
+  },
+  {
+    "description":"Dear Enron GMAT students, Due to the current circumstances, we will be moving all of our current Enr...",
+    "actual_subject":"The Princeton Review Enron GMAT Classes\n",
+    "generated_subject":"Let Know if You Have",
+    "len_words":5
+  },
+  {
+    "description":"I will be getting out my Rice application on Tuesday the 21st, so if your able to complete the recom...",
+    "actual_subject":"Recommendation\n",
+    "generated_subject":"I Will Getting Out Rice",
+    "len_words":5
+  },
+  {
+    "description":"Hi guys, I spoke with the attorney for DRI, a producer on TCO. He said that he would convince his cl...",
+    "actual_subject":"DRI Operating\n",
+    "generated_subject":"Dear mr Parson as Always",
+    "len_words":5
+  },
+  {
+    "description":"If you are a participant in the Enron Corp. Savings Plan, please read this very important message. W...",
+    "actual_subject":"IMPORTANT-To All Domestic Employees who Participate in the Enron  Corp Savings Plan\n",
+    "generated_subject":"If Participant Enron Corp Savings",
+    "len_words":5
+  },
+  {
+    "description":"Kent, Here's a revised letter agreement. It is being reviewed internally, but I wanted to get it to ...",
+    "actual_subject":"Letter agreement\n",
+    "generated_subject":"Kent Here s Revised Letter",
+    "len_words":5
+  },
+  {
+    "description":"Dear Colleagues, We know you have many questions about your new benefits plan, payroll issues and ot...",
+    "actual_subject":"Access Card Information\n",
+    "generated_subject":"Contact if There Any Problems",
+    "len_words":5
+  },
+  {
+    "description":"Shari: I need your thoughts on 2 things: We have done another trade with this counterparty on the Om...",
+    "actual_subject":"Ralcorp Holdings\n",
+    "generated_subject":"You Getting More Information About",
+    "len_words":5
+  },
+  {
+    "description":"We have received the above executed ISDA Master Agreements (Multicurrency-Cross Border) with the two...",
+    "actual_subject":"Panther LLC and Dakota LLC\n",
+    "generated_subject":"Have Received Above Executed Isda",
+    "len_words":5
+  }
+]
