@@ -9,8 +9,8 @@ This repository contains a research-oriented Jupyter Notebook that evaluates a p
 
 ## How to Run
 1. Create/activate a Python 3.10+ environment
-2. Install dependencies: `pip install transformers torch pandas matplotlib datasets evaluate rouge_score tqdm`
-3. Run the notebook cells sequentially.
+2. Install dependencies: `pip install -r requirements.txt` (or `pip install transformers torch pandas matplotlib datasets evaluate rouge_score tqdm`)
+3. Run the notebook cells sequentially from the project directory
 
 ## Author
 Visshva R
