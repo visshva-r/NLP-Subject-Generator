@@ -1,6 +1,8 @@
-# Jupyter Notebook checkpoints
+# Jupyter Notebook checkpoints and execution artifacts
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*_executed.ipynb
+*_executed/
 
 # Python bytecode
 __pycache__/
