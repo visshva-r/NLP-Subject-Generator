@@ -1,0 +1,34 @@
+{
+  "n": 100,
+  "seed": 42,
+  "model": "distilgpt2",
+  "candidates": 3,
+  "primary_method": "best_of_n",
+  "methods": {
+    "naive": {
+      "n": 100.0,
+      "avg_subject_length": 5.0,
+      "unique_ratio": 0.97,
+      "rouge1": 0.09911199911199911,
+      "rouge2": 0.02633116883116883,
+      "rougeL": 0.09625502275502275
+    },
+    "zero_shot": {
+      "n": 100.0,
+      "avg_subject_length": 4.93,
+      "unique_ratio": 0.99,
+      "rouge1": 0.0487974247974248,
+      "rouge2": 0.015499999999999998,
+      "rougeL": 0.048174769674769684
+    },
+    "best_of_n": {
+      "n": 100.0,
+      "avg_subject_length": 4.98,
+      "unique_ratio": 1.0,
+      "rouge1": 0.05260986235986236,
+      "rouge2": 0.013145743145743145,
+      "rougeL": 0.05180622155622157
+    }
+  },
+  "protocol": "AESLC test split, sample n=100, seed=42, email body truncated to 50 words. Naive = first 5 content words, title-cased. Zero-shot = single DistilGPT-2 sample. Best-of-N = 3 samples ranked by keyword overlap with the email body."
+}

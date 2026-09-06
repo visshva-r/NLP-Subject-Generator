@@ -4,11 +4,35 @@
 *_executed.ipynb
 *_executed/
 
-# Python bytecode
+# Python bytecode / packaging
 __pycache__/
 *.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
 
-# Local environment files (if you ever use them)
+# Tests / tooling
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environment files
 .env
 venv/
+.venv/
 env/
+
+# Hugging Face / torch caches (if created in-repo)
+.cache/
+.huggingface/
+hf_cache/
+outputs/smoke/
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# Pytest temp dirs
+pytest-cache-files-*/

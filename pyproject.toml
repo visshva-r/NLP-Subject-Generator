@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "email-subject-generator"
+version = "0.1.0"
+description = "AESLC email subject-line generator with DistilGPT-2 and best-of-N decoding"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Visshva R" }]
+dependencies = [
+    "transformers>=4.44.0",
+    "huggingface-hub>=0.23.2,<1.0",
+    "torch>=2.0.0",
+    "pandas>=2.0.0",
+    "matplotlib>=3.7.0",
+    "datasets>=2.14.0",
+    "evaluate>=0.4.0",
+    "rouge-score>=0.1.0",
+    "tqdm>=4.65.0",
+    "pyarrow>=12.0.0",
+    "gradio>=4.44.0,<5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4.0", "ruff>=0.4.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]
+filterwarnings = [
+    "ignore::PendingDeprecationWarning",
+    "ignore::DeprecationWarning",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
