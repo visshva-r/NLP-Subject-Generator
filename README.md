@@ -52,8 +52,8 @@ Human labels are often abstract (for example "Layoffs"). ROUGE rewards overlap w
 ## Setup
 
 ```bash
-git clone https://github.com/visshva-r/NLP-Subject-Generator.git
-cd NLP-Subject-Generator
+git clone https://github.com/visshva-r/NLP-Email-Subject-Generator.git
+cd NLP-Email-Subject-Generator
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS / Linux: source .venv/bin/activate
