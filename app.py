@@ -1,4 +1,4 @@
-"""Local demo: email body → extractive baseline vs DistilGPT-2 + best-of-N."""
+"""Gradio demo for extractive vs DistilGPT-2 best-of-N email subject generation."""
 
 from __future__ import annotations
 
@@ -89,22 +89,21 @@ def build_demo() -> gr.Blocks:
         block_border_width="1px",
     )
 
-    with gr.Blocks(title="Subject line, from the body", theme=theme, css=_CSS) as demo:
+    with gr.Blocks(title="Email Subject Line Generator", theme=theme, css=_CSS) as demo:
         gr.Markdown(
             """
-# Subject line, from the body
+# Email subject line generator
 
-Paste an email. You get two drafts: the first five content words (title-cased),
-and up to three lines from DistilGPT-2 after a keyword overlap pass.
-On AESLC the simple baseline still scores higher; this is mostly for comparison.
+Paste an email body to compare two subject drafts:
+an extractive baseline (first content words) and DistilGPT-2 with best-of-N ranking.
 """
         )
         email = gr.Textbox(
-            label="Email",
+            label="Email body",
             lines=8,
-            placeholder="Paste the body here",
+            placeholder="Paste the email body here",
         )
-        run = gr.Button("Draft subjects", variant="primary")
+        run = gr.Button("Generate subjects", variant="primary")
         with gr.Row():
             with gr.Column():
                 gr.Markdown("Extractive baseline")
@@ -112,15 +111,15 @@ On AESLC the simple baseline still scores higher; this is mostly for comparison.
             with gr.Column():
                 gr.Markdown("DistilGPT-2 (best of 3)")
                 model_out = gr.Markdown(value="_Waiting for input._", elem_classes=["panel"])
-        with gr.Accordion("Decoding (optional)", open=False):
+        with gr.Accordion("Decoding options", open=False):
             temperature = gr.Slider(0.1, 1.2, value=TEMPERATURE, step=0.05, label="Temperature")
             num_candidates = gr.Slider(1, 8, value=3, step=1, label="Candidates sampled")
             max_words = gr.Slider(3, 8, value=SAFE_MAX_WORDS, step=1, label="Max words")
-            num_suggestions = gr.Slider(1, 3, value=3, step=1, label="How many to keep")
-        gr.Examples(examples=[[s] for s in SAMPLE_EMAILS], inputs=[email], label="Sample bodies")
+            num_suggestions = gr.Slider(1, 3, value=3, step=1, label="Suggestions to keep")
+        gr.Examples(examples=[[s] for s in SAMPLE_EMAILS], inputs=[email], label="Examples")
         gr.Markdown(
-            f"Uses `{MODEL_NAME}`. First run downloads weights (~80 MB). "
-            "Benchmark numbers are in the repo README."
+            f"Model: `{MODEL_NAME}`. First run downloads weights (~80 MB). "
+            "Benchmark metrics are documented in the repository README."
         )
         run.click(
             fn=suggest_subjects,
